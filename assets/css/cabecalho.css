@@ -1,0 +1,7 @@
+.cabeçalho {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  padding: 0 2rem 0 2rem;
+}
